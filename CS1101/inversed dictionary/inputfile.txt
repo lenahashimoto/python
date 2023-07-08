@@ -1,0 +1,6 @@
+{"Poisson": ["Discrete", "X ~ P(μ)"],
+"Binomial": ["Discrete", "X ~ B(n, p)"],
+"Geometric":["Discrete"," X ~ G(p)"],
+"Hypergeometric":["Discrete","X ~ H(r, b, n)"],
+"Uniform":["Continuous","X ~ U(a, b)"],
+"Exponential":["Continuous","X ~ Exp(m)"]}
